@@ -2,11 +2,9 @@
 <h4 align="center">Full Stack Developer | I ❤️ Java</h4>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/PritishHingangave/" target="_blank">
-    <img src="https://www.linkedin.com/in/pritish-hingangave-20160b188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pritish-hingangave-20160b188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</div>
-
 <br>
 
 - 🔭 I’m looking for Full Stack Developer Roles 
